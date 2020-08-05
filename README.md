@@ -1,1 +1,5 @@
 # Analytics-Projects
+
+These projects mostly focus on linear regression analysis. OLS is a variation of linear regression, a statistical method that examines associations between multiple independent variables and a single dependent variable; once the assumptions are satisfied, the regression output indicates the strength of the association between the dependent variable and each of the independent variables. These assumptions, include linear parameters, random sampling, no multicollinearity, no autocorrelation, a conditional mean of zero, and normally distributed error terms; all of them were satisfied, meaning that our OLS models are efficient and represent a linear unbiased estimator of variable coefficients. 
+
+I also believe that simple linear regression may be a great way to examine my single input. Because simple linear regression requires statistical properties from the data such as means, standard deviations, correlations, and covariance, all the data must be available to traverse and calculate statistics.
